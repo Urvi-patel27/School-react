@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/School-react/static/css/main.fd85c241.css",
+    "main.js": "/School-react/static/js/main.50108f00.js",
+    "static/media/awelcome.jpg": "/School-react/static/media/awelcome.42adcd81f80c0290d995.jpg",
+    "static/media/bg.jpg": "/School-react/static/media/bg.146c1b52c91879842e4b.jpg",
+    "static/media/ahero.jpg": "/School-react/static/media/ahero.b00dadb496c0baedff69.jpg",
+    "static/media/ourf.jpg": "/School-react/static/media/ourf.c0e771da555a49bd8dc2.jpg",
+    "static/media/welcome.jpg": "/School-react/static/media/welcome.d6d867fe8ddaee495ab5.jpg",
+    "static/media/whyus.jpg": "/School-react/static/media/whyus.fca88b435bf2a880ae57.jpg",
+    "static/media/contactmain.jpg": "/School-react/static/media/contactmain.35ee40a3ab08bc8a2472.jpg",
+    "static/media/h1.jpg": "/School-react/static/media/h1.1b8b63c6b10c52bad915.jpg",
+    "static/media/h3.jpg": "/School-react/static/media/h3.8ea85a6d5765c0f7b288.jpg",
+    "static/media/ourm.jpg": "/School-react/static/media/ourm.32d1392de81a7f96a481.jpg",
+    "static/media/main.jpg": "/School-react/static/media/main.ec58e700371dd7a641bb.jpg",
+    "static/media/h2.jpg": "/School-react/static/media/h2.88e3fca0a1f43aa0a00f.jpg",
+    "index.html": "/School-react/index.html",
+    "main.fd85c241.css.map": "/School-react/static/css/main.fd85c241.css.map",
+    "main.50108f00.js.map": "/School-react/static/js/main.50108f00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd85c241.css",
+    "static/js/main.50108f00.js"
+  ]
+}
